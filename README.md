@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Salut, moi c'est Chaneze !
 
 # **Étudiante à l'école 42** | **Full Stack Development**  | **Ancienne Professeur des écoles**
