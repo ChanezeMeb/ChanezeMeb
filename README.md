@@ -6,6 +6,7 @@
 🇫🇷 Eure-et-Loire / Île-de-France | Disponible pour un stage dès juin 2026
 
 ---
+</div>
 
 ## 📝 Qui suis-je ?
 
