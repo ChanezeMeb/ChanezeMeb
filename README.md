@@ -50,7 +50,7 @@ Encore en apprentissage, mais voici ce que je maîtrise progressivement :
 | **Minishell** | ✅ 105% | Système Unix | Shell POSIX, pipes, redirections, gestion de processus |
 | **Modules C++ (00-09)** | ✅ 100% | POO | Programmation orientée objet, design patterns |
 | **Webserv** | ✅ 125% | Backend | Serveur HTTP en C++, parsing, gestion des requêtes |
-| **Inception** | 🔄 125% | Infrastructure | Docker, orchestration, configuration réseau |
+| **Inception** | ✅ 125% | Infrastructure | Docker, orchestration, configuration réseau |
 | **ft_transcendence** | 🔄 En cours | Full Stack Web | React, Node.js, PostgreSQL, WebSockets, authentification |
 
 ---
