@@ -3,7 +3,7 @@
 # 👋 Salut, moi c'est Chaneze !
 
 ## **Étudiante à l'école 42** | **Développeuse Full Stack**  | **Ancienne Professeur des écoles**
-🇫🇷 Eure-et-Loire / Île-de-France | Disponible pour un stage dès juin 2026
+🇫🇷 Eure-et-Loire / Île-de-France | Disponible pour un stage dès juillet 2026
 
 ---
 </div>
