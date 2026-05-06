@@ -2,7 +2,7 @@
 
 # 👋 Salut, moi c'est Chaneze !
 
-## **Étudiante à l'école 42** | **Développeuse Full Stack**  | **Ancienne Professeur des écoles**
+## **Étudiante à l'école 42** | **Développeuse**  | **Ancienne Professeur des écoles**
 🇫🇷 Eure-et-Loire / Île-de-France | Disponible pour un stage dès juillet 2026
 
 ---
@@ -40,6 +40,9 @@ Encore en apprentissage, mais voici ce que je maîtrise progressivement :
 - Git et GitHub
 - Makefile, Bash
 
+**AI**
+- Python
+
 ---
 
 ## 🚀 Mes Projets
@@ -70,7 +73,7 @@ Cette expérience m'a donné une rigueur pédagogique et une capacité à expliq
 
 - Consolider mes bases en Full Stack via ft_transcendence
 - Comprendre vraiment Docker et l'infrastructure
-- Décrocher un stage de 6 mois en développement Full Stack pour juin 2026
+- Décrocher un stage de 6 mois en développement pour juillet 2026
 - Rester curieuse et continuer à explorer 🔍
 
 ---
@@ -92,7 +95,7 @@ Je suis toujours ouverte à :
 ## 📬 Me contacter
 
 - **Email** : mebarki.chaneze@hotmail.fr
-- **LinkedIn** : [Chaneze Mebarki](https://www.linkedin.com/in/chaneze-mebarki-7803a2198)
+- **LinkedIn** : [Chaneze Mebarki](www.linkedin.com/in/chaneze-mebarki)
 
 ---
 
